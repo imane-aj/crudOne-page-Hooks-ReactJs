@@ -1,0 +1,16 @@
+{
+  "promotion": [
+    {
+      "id": 1,
+      "promo": "codeCampers"
+    },
+    {
+      "id": 2,
+      "promo": "The Eagles"
+    },
+    {
+      "id" : 3,
+      "promo" : "RajaFans"
+  }
+  ]
+}
